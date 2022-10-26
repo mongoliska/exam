@@ -14,7 +14,9 @@ a{
     max-width: 100%;
     /* overflow: hidden; */
 }
-
+.l{
+    color: rgb(73, 73, 253);
+}
 
 /* header */
 header .container{
@@ -125,5 +127,9 @@ footer li{
 
 footer a{
     color: grey;
+}
+
+.top{
+    border-top: 1px solid #D2D2D7;
 }
 
